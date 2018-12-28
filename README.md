@@ -7,11 +7,16 @@ Username: test
 password: 123
 
 This application has five different flaws:
-#Security Misconfiguration (Flaw no 5)
-#SQL-Injection (Flaw no 1)
-#Missing Function level access control (Flaw no 7)
-#Cross-Site Scripting (XSS) (Flaw no 3)
-#Cross-Site Request Forgery (CSRF) (Flaw no 8)
+
+Security Misconfiguration (Flaw no 5) 
+
+SQL-Injection (Flaw no 1)
+
+Missing Function level access control (Flaw no 7)
+
+Cross-Site Scripting (XSS) (Flaw no 3)
+
+Cross-Site Request Forgery (CSRF) (Flaw no 8)
 
 
 
