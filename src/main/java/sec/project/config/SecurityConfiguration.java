@@ -20,7 +20,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
-        //http.csrf().disable(); //uncomment this 
+        http.csrf().disable(); //this should be commented
         
         http.authorizeRequests()
                 .anyRequest().permitAll();
